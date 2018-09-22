@@ -1,7 +1,7 @@
-#Proactive Checker
+# Proactive Checker
 
 To do. 
 
-#Quantitative Verification
+# Quantitative Verification
 
-Runtime Verification (RV) tem como objetivo checar em tempo de execuÁ„o, se um sistema est· funcionamento corretamente. Para isso, utiliza-se de tÈcnicas formais, como Modelo Checking. Quantitative Verification (QV), È uma das possibilidades de estudo dentro de RV, em particular, est· preocupada com a checagem de propriedades quantitativas, tais como, desempenho, confiabilidade, seguranÁa, entre outras.
+Runtime Verification (RV) tem como objetivo checar em tempo de execu√ß√£o, se um sistema est√° funcionamento corretamente. Para isso, utiliza-se de t√©cnicas formais, como Modelo Checking. Quantitative Verification (QV), √© uma das possibilidades de estudo dentro de RV, em particular, est√° preocupada com a checagem de propriedades quantitativas, tais como, desempenho, confiabilidade, seguran√ßa, entre outras.
