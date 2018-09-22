@@ -13,7 +13,7 @@ public class AppLog {
 	}
 
 	private static void run() {
-		System.out.println("Observer initialized!");
+		System.out.println("LOG initialized!");
 		
 		Timer timer = null;
 		if(timer == null) {
