@@ -1,5 +1,3 @@
 const double T;
 
-S=? [ qsize / q_max > 0.85 ] 
-
-R{"queue_size"}=? [I=T]
+P=? [ F[T,T] qsize=q_max ]

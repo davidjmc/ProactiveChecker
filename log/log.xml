@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<quality>
-	<Attribute name="rate_arrive">
-    	<value>0.9</value>
-	</Attribute>
-</quality>
+<constants>
+	<constant name="q_trigger" type="model">
+   		<value>3</value>
+	</constant>
+	<constant name="T" type="property">
+   		<value>3</value>
+	</constant>
+</constants>
